@@ -1,0 +1,13 @@
+/* ajuste del header a columnas */
+.main-header .row{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    }
+.main-header{
+    margin: 0%;
+}
+/* ajuste tamaño del contenido de la pagina */
+.wrap-body{
+        padding:  0 20%;
+    }
+

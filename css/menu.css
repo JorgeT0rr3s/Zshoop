@@ -10,14 +10,14 @@
 }
 
 ul li {
-  margin: 0 20px 0 0;
+  margin: 0 10px 0 0;
   padding: 0;
   display: block;
-  position: relative;
+  position:relative;
 }
 
 ul li a {
-  font-size: 13px;
+  font-size: 12px;
   text-decoration: none;
   display: block;
   margin: 0;
@@ -57,7 +57,7 @@ ul li a {
 
 #cssmenu > ul > li > a {
   color: #fff;
-  padding: 12px 20px;
+  padding: 12px 15px; /*  ajuste del padding de la lista que conforma el menu*/
   text-transform: uppercase;
   z-index: 2;
   font-weight: 500;
