@@ -579,7 +579,7 @@ article .entry-header .tags-links {
 }
 
 article.single-post .entry-content {
-	padding: 40px 120px;
+	padding: 40px 90px; /* ajuste del pading texto*/
 }
 
 @media (max-width: 540px) {

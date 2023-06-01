@@ -43,3 +43,10 @@
 .col-1-3{
     margin: 10px;
 }
+
+/* -------------------------- single html estilos------------------------------ */
+
+/* ajuste margin titulo */
+.entry-title{
+    padding: 0 50px;
+}
