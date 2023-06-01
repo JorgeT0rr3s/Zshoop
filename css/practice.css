@@ -10,4 +10,25 @@
 .wrap-body{
         padding:  0 20%;
     }
+/* ajuste de margin imagen 15 */
+.wrap-box{
+    margin-bottom: 2px;
+}
+/* ajuste tamaños box 2 */
+.col-2-5 {
+    width: 60%;
+}
+.col-3-5 {
+    width: 40%;
+}
+.col-1-2 {
+    width: 50%;
+}
+
+.wrap-box .row {
+    display:flex;
+    flex-wrap: wrap;
+
+
+}
 
