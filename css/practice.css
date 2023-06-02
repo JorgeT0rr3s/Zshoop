@@ -44,9 +44,22 @@
     margin: 10px;
 }
 
-/* -------------------------- single html estilos------------------------------ */
+/* -------------------------- single html style------------------------------ */
 
 /* ajuste margin titulo */
 .entry-title{
     padding: 0 50px;
+}
+
+/* -------------------------- contact html style-------------------------------- */
+.contact-form {
+    padding: 50px;
+}
+.contact-form .t-center{
+    margin: 0;
+}
+.label1
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
